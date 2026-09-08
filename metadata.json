@@ -1,0 +1,6 @@
+{
+  "name": "SmallSEOTools Suite & Digital Utilities",
+  "description": "Comprehensive suite of 90+ SEO, text analysis, design studio, image editing, domain, website management, and PDF tools with admin dashboard, real-time analytics, user auth, and subscription system.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
